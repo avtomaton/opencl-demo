@@ -115,8 +115,8 @@ public:
 		k_memset_name = "memset_int";
 		simple_branch = true;
 
-		input_mat_file_name = "../data/input.mat";
-		search_mat_file_name = "../data/search.mat";
+		input_mat_file_name = "data/input.mat";
+		search_mat_file_name = "data/search.mat";
 		input_mat_rows = 4;
 		input_mat_cols = 7;
 		search_mat_rows = 2;
